@@ -1,0 +1,5 @@
+Doc1 -> Hadoop Streaming is powerful
+Doc2 -> Hadoop allows you to process big data
+Doc3 -> Streaming data with Hadoop 
+Doc4 -> Streaming is fun
+Doc5 -> Bigdata rocks

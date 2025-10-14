@@ -3,7 +3,6 @@ import sys
 
 for line in sys.stdin:
     line = line.strip()
-    words = line.split()
+    year, temp = line.split("\t", 1)
 
-    for word in words:
-        print('{}\t1'.format(word))
+    print("{}\t{}".format(year, temp))
