@@ -1,0 +1,31 @@
+1.0	Alice	25.0		5.0	Rome
+2.0	Bob	31.0	52000.0	9.0	Milan
+3.0	Charlie	29.0	48000.0	7.0	Turin
+4.0	Dana	35.0	61000.0	11.0	Bologna
+5.0	Evan	22.0	39000.0	4.0	Naples
+6.0	Fatima	28.0		8.0	Florence
+7.0	George		57000.0	10.0	Rome
+8.0	  Helen  	27.0	49000.0	6.0	  Milan
+9.0	Ivan	31.0	52000.0	9.0	Milan
+9.0	Ivan	31.0	52000.0	9.0	Milan
+10.0	Julia	26.0	43000.0	5.0	
+11.0	Kamal	33.0	68000.0	12.0	Rome
+12.0	Lucia	25.0	42000.0	5.0	Rome
+13.0	Maria	24.0	41000.0	5.0	Palermo
+14.0	Nina	27.0	49000.0	6.0	Milan
+15.0	Oscar			6.0	Turin
+16.0	Paolo	30.0	50000.0	8.0	Bari
+17.0	Quinn	28.0	47000.0	7.0	Genoa
+18.0	Rosa	35.0	61000.0	11.0	Bologna
+4.0	Dana	35.0	61000.0	11.0	Bologna
+19.0	Sam	22.0	39000.0	4.0	Naples
+20.0	Tara	27.0	49000.0	6.0	Milan
+21.0	Uma	29.0	48000.0	7.0	Turin
+22.0	Victor	31.0	52000.0	9.0	Milan
+1.0	Alice	25.0		5.0	Rome
+23.0	Wendy	25.0	42000.0	5.0	Rome
+24.0	Xavier	36.0	72000.0	13.0	Rome
+25.0	Yara	28.0	47000.0	7.0	Genoa
+13.0	Maria	24.0	41000.0	5.0	Palermo
+26.0	Zane	24.0		5.0	Palermo
+26.0	Zane	24.0	41000.0	5.0	Palermo
